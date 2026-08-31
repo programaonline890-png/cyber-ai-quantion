@@ -1,0 +1,32 @@
+{
+  "name": "cyber-ai-quantion",
+  "version": "3.1.0",
+  "description": "Cyber AI Quantion v3.1-CORE",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "node backend/src/server.js"
+  },
+  "dependencies": {
+    "ccxt": "^4.5.75",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "ws": "^8.21.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programaonline890-png/ciber-IA-quantion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/programaonline890-png/ciber-IA-quantion/issues"
+  },
+  "homepage": "https://github.com/programaonline890-png/ciber-IA-quantion#readme"
+}
